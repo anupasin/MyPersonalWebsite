@@ -12,8 +12,6 @@ body {
   h2 {
     font-size: 2.5rem;
     color: #66BFBF;
-    font-family: 'Faster One', cursive;
-    font-weight:  normal;
    }
   h3 {
     color: #11999E;
@@ -78,6 +76,10 @@ body {
   width: 50%;
   text-align: left;
   margin: 100px auto;
+}
+.digital-nomad {
+  font-family: 'Faster One', cursive;
+  font-weight: normal;
 }
 .heading-three {
   text-align: left;
